@@ -2,7 +2,7 @@ import random
 
 def main():
     listOfWords = ["abandonner", "abeille", "abri", "accident", "acheter", "action", "addition", "adieu", "admettre", "affaire",
-    "bagage", "baguette", "bain", "baiser", "balayer", "baleine", "banane", "banc", "bande", "banque",
+    "bagage", "baguette", "bain", "baiser", "balayer", "baleine", "banane", "banc", "bande", "banque", "balader",
     "cabane", "cacher", "cadeau", "café", "caisse", "calculer", "calme", "camion", "campagne", "canard",
     "dame", "danger", "danser", "date", "débattre", "décider", "décrire", "défendre", "déjeuner", "demander",
     "eau", "école", "écrire", "écouter", "éducation", "effet", "effort", "égal", "église", "élève",
